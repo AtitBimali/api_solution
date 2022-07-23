@@ -2,7 +2,7 @@
 ```
 pip install -r requirements.txt ```
 
-** Superuser Credentials:**
+**Superuser Credentials:**
 username: admin 
 password: admin
 
