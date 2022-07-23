@@ -5,6 +5,7 @@ pip install -r requirements.txt
 
 **Superuser Credentials:**
 username: admin 
+
 password: admin
 
 Endpoint to view uploaded videos:
